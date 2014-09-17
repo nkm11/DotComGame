@@ -63,4 +63,6 @@ $
 Two questions: What have you changed but not yet staged? And what have you staged that you are about to commit? 
 
 git remote add origin https://github.com/nkm11/DotComGame.git
+git remote add origin https://github.com/nkm11/Dotcomgm.git
 git push -u origin master
+
